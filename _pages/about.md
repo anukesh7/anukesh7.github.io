@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Senior Undergrad pursuing BTech with Honors in Computer Science from IIT Gandhinagar. I find the research areas that deal with building solutions for real-world applications using technology, quite intriguing. I'm always passionate to learn and explore off-course topics.
-Experience & Interest Topics: Network Science, Graph Theory, Deep Learning, Computer Vision, Algebra & Probability, Data Structures & Algorithms, Discrete Mathematics
+I am a Senior Undergraduate pursuing BTech with Honors in Computer Science from IIT Gandhinagar. I find the research areas that deal with building solutions for real-world applications using technology, quite intriguing. I'm always passionate to learn and explore off-course topics.
+Interest Topics: Network Science, Graph Theory, Deep Learning, Computer Vision, Reinforcement Learning, Algebra & Probability, Data Structures & Algorithms
 
 <!-- A data-driven personal website
 ======

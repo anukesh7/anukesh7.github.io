@@ -83,12 +83,11 @@ author:
   name             : "Harsh Patel"
   avatar           : "profile.png"
   bio              : ""
-  location         : "Gujarat, India"
-  employer         :
+  location         : "India"
+  employer         : "Indian Institute of Technology Gandhinagar"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Wcl9Nq0AAAAJ"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Harsh-Patel-73"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,6 +96,7 @@ author:
   facebook         :
   foursquare       :
   github           : "Harshp1802"
+  researchgate     : "https://www.researchgate.net/profile/Harsh-Patel-73"
   google_plus      :
   keybase          :
   instagram        :
