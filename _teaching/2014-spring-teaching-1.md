@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
+type: "Natural Language Processing course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "IIT Gandhinagar"
+date: 2021-01-01
+location: "Gandhinagar, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+- Designing course projects for students in the domain of NLP. Project Mentor for 4 groups (16 students).
+- Conducting coding sessions and weekly project update meetings.
