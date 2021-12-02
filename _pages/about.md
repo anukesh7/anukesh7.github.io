@@ -10,6 +10,8 @@ redirect_from:
 
 I am a Senior Undergraduate pursuing BTech with Honors in Computer Science from IIT Gandhinagar. I find the research areas that deal with building solutions for real-world applications using technology, quite intriguing. I'm always passionate to learn and explore off-course topics.
 
+<b>Applying for MS in Computer Science (Fall '22)</b>
+
 Interest Topics: Network Science, Graph Theory, Deep Learning, Computer Vision, Reinforcement Learning, Algebra & Probability, Data Structures & Algorithms
 
 <!-- A data-driven personal website
