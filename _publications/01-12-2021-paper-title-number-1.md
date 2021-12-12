@@ -10,6 +10,6 @@ citation: 'Zeel Patel, Harsh Patel*, Palak Purohit*, Shivam Sahni*, Nipun Batra.
 ---
 Accepted, in press.
 
-[Download paper here](https://harshp1802.github.io/)
+[Download paper here](files\Harsh_pub_AAAI.pdf)
 
 Recommended citation: Zeel Patel, Harsh Patel*, Palak Purohit*, Shivam Sahni*, Nipun Batra. Accurate and Scalable Gaussian Processes for Fine-grained Air Quality Inference." <i>Thirty-Sixth Association for the Advancement of Artificial Intelligence (AAAI) Conference [AAAI 2022]</i>. 
