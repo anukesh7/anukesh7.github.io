@@ -18,5 +18,5 @@ main:
   - title: "CV"
     url: https://drive.google.com/file/d/1JPXKnZPqhI4n9Bi93EHAfgFiqJmWMViy/view?usp=sharing
     
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "Featured News"
+    url: /news/
