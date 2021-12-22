@@ -1,7 +1,6 @@
 ---
 permalink: /news/
 title: "Featured News"
-excerpt: "This is a page not in th emain menu"
 author_profile: true
 redirect_from: 
   - "/news/"
