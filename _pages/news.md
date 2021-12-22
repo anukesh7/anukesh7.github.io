@@ -7,6 +7,7 @@ redirect_from:
 ---
 
 Covid-19 Interactive Desicion Support System covered by some of the leading newspapers and media agencies:
+
 Source: [IIT Gandhinagar News](https://news.iitgn.ac.in/2020/05/15/iitgn-researchers-develop-an-interactive-covid-19-dashboard-to-aid-optimised-testing-and-post-lockdown-operations/)
 
 * [Northeastern University News](https://coe.northeastern.edu/news/cee-alum-created-a-model-to-analyze-the-spread-of-covid-19-cases-in-india/)
