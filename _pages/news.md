@@ -3,7 +3,6 @@ permalink: /news/
 title: "Featured News"
 author_profile: true
 redirect_from: 
-  - "/news/"
   - "/news.html"
 ---
 
