@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming graduate student (Masters Fall '22) in the Department of Computer Science and Engineering at university of California, San Diego.
+I am an incoming graduate student (Masters Fall '22) in the Department of Computer Science and Engineering at the University of California, San Diego.
 
 I completed BTech with Honors in Computer Science from IIT Gandhinagar. I find the research areas that deal with building solutions for real-world applications using technology, quite intriguing. I'm always passionate to learn and explore cross-discipline research topics.
 
