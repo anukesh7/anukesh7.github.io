@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Undergraduate pursuing BTech with Honors in Computer Science from IIT Gandhinagar. I find the research areas that deal with building solutions for real-world applications using technology, quite intriguing. I'm always passionate to learn and explore cross-discipline research topics.
+I am incoming graduate student (Masters Fall '22) in the Department of Computer Science and Engineering at university of California, San Diego. I completed BTech with Honors in Computer Science from IIT Gandhinagar. I find the research areas that deal with building solutions for real-world applications using technology, quite intriguing. I'm always passionate to learn and explore cross-discipline research topics.
 
 <b>Applying for MS in Computer Science (Fall '22)</b>
 
-Interest Topics: Network Science, Deep Learning, Bayesian Modeling, Natural Language Processing, Reinforcement Learning, Data Science
+Interest Topics: Network Science, Deep Learning, Bayesian Modeling, Natural Language Processing, Reinforcement Learning, Data Science, Computer Vision
 
 <!-- A data-driven personal website
 ======
