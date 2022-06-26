@@ -17,7 +17,7 @@ title: "Research"
 
 Research plays a central role in my teaching as students improve their
 analytical skills and master the tools of data analysis through hands-on
-experience. I have taught undergraduate and Graduate students as a teaching assistant and tutor. While at IIT Gandhinagar, I served as a teaching assistant for courses for graduate students and led remote sensing data analysis through google earth engine and ENVI software.
+experience. I have taught undergraduate and Graduate students as a teaching assistant and tutor. While at IIT Gandhinagar, I served as a for graduate level courses, such as Remote Sensing of Land and Water Resources where I conducted the remote sensing data analysis through google earth engine, python and ENVI software.
 
 ## Indian Institute of Technology Gandhinagar 2017-2021
 - Graduate Courses
