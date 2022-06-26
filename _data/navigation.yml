@@ -6,16 +6,16 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
-  - title: "Research and Teaching Experience"
+  - title: "Research/Teaching"
     url: /teaching/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "Outreach"
+  - title: "Software"
     url: /year-archive/
     
-  - title: "CV"
+  - title: "Accomplishment"
     url: https://drive.google.com/file/d/1JPXKnZPqhI4n9Bi93EHAfgFiqJmWMViy/view?usp=sharing
     
   - title: "News Coverage"
