@@ -1,6 +1,6 @@
 ---
 permalink: /news/
-title: "Featured News"
+title: "Print Media"
 author_profile: true
 redirect_from: 
   - "/news.html"

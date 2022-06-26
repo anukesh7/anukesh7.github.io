@@ -1,9 +1,9 @@
 ---
-title: "Accurate and Scalable Gaussian Processes for Fine-grained Air Quality Inference"
+title: "Remotely sensed high resolution irrigated area mapping in India for 2000 to 2015"
 collection: publications
 permalink: /publication/02-02-2022-paper-title-number-1
-date: 02-02-2022
-venue: 'AAAI Conference'
-paperurl: 'https://harshp1802.github.io/files/Harsh_pub_AAAI.pdf'
-citation: 'Zeel Patel, Harsh Patel*, Palak Purohit*, Shivam Sahni*, Nipun Batra. Accurate and Scalable Gaussian Processes for Fine-grained Air Quality Inference.&quot; <i>Thirty-Sixth Association for the Advancement of Artificial Intelligence (AAAI) Conference [AAAI 2022]</i>. '
+date: 20-12-2016
+venue: 'Scientific Data'
+paperurl: 'https://www.nature.com/articles/sdata2016118'
+citation: 'Ambika, A. K., Wardlow, B., & Mishra, V. (2016). Remotely sensed high resolution irrigated area mapping in India for 2000 to 2015. Scientific data, 3(1), 1-14.'
 ---

@@ -1,9 +1,9 @@
 ---
-title: "Program Synthesis: Does Feedback Help?"
+title: "Substantial decline in atmospheric aridity due to irrigation in India"
 collection: publications
 permalink: /publication/09-01-2022-paper-title-number-3
-date: 09-01-2022
-venue: 'CoDS-COMAD'
-paperurl: 'https://doi.org/10.1145/3493700.3493756'
-citation: 'Harsh Patel*, Praveen Venkatesh*, Shivam Sahni*, Varun Jain*, Mrinal Anand, Mayank Singh. &quot;Program Synthesis: Does Feedback Help?.&quot; <i>ACM India 5th Joint International Conference on Data Science and Management of Data [CoDS-COMAD 2022]</i>.'
+date: 15-12-2020
+venue: 'Environmental Research Letters'
+paperurl: 'https://iopscience.iop.org/article/10.1088/1748-9326/abc8bc'
+citation: 'Ambika, A. K., & Mishra, V. (2020). Substantial decline in atmospheric aridity due to irrigation in India. Environmental Research Letters, 15(12), 124060.'
 ---
