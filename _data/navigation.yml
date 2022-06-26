@@ -13,10 +13,10 @@ main:
   #   url: /portfolio/
         
   - title: "Software"
-    url: /year-archive/
+    url: /software/
     
   - title: "Accomplishment"
-    url: https://drive.google.com/file/d/1JPXKnZPqhI4n9Bi93EHAfgFiqJmWMViy/view?usp=sharing
+    url: /accomplishment/
     
   - title: "News Coverage"
     url: /news/
