@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Harsh Patel"
+title                    : "Anukesh Krishnankutty Ambika"
 title_separator          : "-"
-name                     : &name "Harsh Patel"
+name                     : &name "Anukesh Krishnankutty Ambika"
 description              : &description "Senior Undergrad@IITGN"
-url                      : https://harshp1802.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://anukesh7.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Harshp1802/harshp1802.github.io"
+repository               : "anukesh7/anukesh7.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Harsh Patel"
+  name             : "Anukesh Krishnankutty Ambika"
   avatar           : "profile.png"
   bio              : ""
   location         : #"India"
-  employer         : "UC San Diego"
+  employer         : "IIT Gandhinagar"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=Wcl9Nq0AAAAJ"
-  email            : "harsh.patel@iitgn.ac.in"
+  googlescholar    : "https://scholar.google.co.in/citations?user=kXawSkwAAAAJ&hl=en"
+  email            : "a.anukesh@iitgn.ac.in"
   uri              :
   bitbucket        :
   codepen          :
@@ -95,21 +95,21 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Harshp1802"
-  researchgate     : "https://www.researchgate.net/profile/Harsh-Patel-73"
+  github           : "anukesh7"
+  researchgate     : "https://www.researchgate.net/profile/Anukesh-Krishnankutty-Ambika"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "harshp1802"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : "anukesh-krishnankutty-ambika"
+  orcid            : "https://orcid.org/0000-0002-7791-499X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "HarshP_"
+  twitter          : "anukeshkaiitgn"
   vine             :
   weibo            :
   xing             :
