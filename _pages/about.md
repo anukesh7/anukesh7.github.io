@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "A little about me"
+title: "Biosketch"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming graduate student (Masters Fall '22) in the Department of Computer Science and Engineering at the University of California, San Diego.
+Completed Ph.d. in Earth Sciences, IIT Gandhinagar and currently working as a research associate in the IIT Gandhinagar. 
 
-I completed BTech with Honors in Computer Science from IIT Gandhinagar. I find the research areas that deal with building solutions for real-world applications using technology, quite intriguing. I'm always passionate to learn and explore cross-discipline research topics.
+I have developed and implemented novel methods to understand extreme events induced by land management practices. My research aims to elucidate the role of irrigation in alleviating extreme events, which also proposes a framework to achieve concurrent sustainable water management and reduction in moist heat stress. I have analyzed multiple reanalysis datasets and implemented irrigation in regional climate model (Weather Research and Forecasting (WRF)) to understand the changes in the concurrent extreme events, land-atmospheric coupling of atmospheric aridity, and heat stress under the warming climate during my Ph.D. My research also provides robust, sustainable water management information to reduce the projected increase in heat stress under a future warming climate. High-resolution irrigation area datasets at 250 m resolution were initially developed from a novel hierarchy classification method to comprehend the impact of hydroclimatic extremes of drought and groundwater depletion.
 
 <!-- <b>Applying for MS in Computer Science (Fall '22)</b> -->
 
-<b> Interest Topics: </b>Network Science, Deep Learning, Bayesian Modeling, Natural Language Processing, Reinforcement Learning, Data Science, Computer Vision
+<b> Research Interest: </b>Machine Learning, Deep Learning, Modeling Land-atmospheric Coupling, Climate change attribution,  Extreme events- Droughts and hot extremes
 
 <!-- A data-driven personal website
 ======
