@@ -14,7 +14,7 @@ redirect_from:
 
 # Leadership Role
 
-### Ph.D. Senator 2019 - 2021. IIT Gandhinagar (The experience in the control room and student senate has helped me become one of the best performing senators. The student council member equivocally recommends me as the best performing senator during the 2019-2020 academic calendar in recognition of managing the control room and helping the students with various items during the lockdown period (Covid-19)).
+ ### Ph.D. Senator 2019 - 2021. IIT Gandhinagar (The experience in the control room and student senate has helped me become one of the best performing senators. The student council member equivocally recommends me as the best performing senator during the 2019-2020 academic calendar in recognition of managing the control room and helping the students with various items during the lockdown period (Covid-19)).</div>
 ### IIT Gandhinagar Institute Senate Member 2020 – 2021
 ### Senate Advisory Committee Member 2020 - 2021. Founding Member of Constitution for Student Government at IIT Gandhinagar 
 ### [Control Room IIT Gandhinagar- Covid 19; Founding Member and Overall coordinator- 2020](https://sites.iitgn.ac.in/controlroom/)
