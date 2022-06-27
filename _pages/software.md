@@ -14,6 +14,6 @@ redirect_from:
   - ArcGISpro, ERDAS, ENVI, Autocad, SARscape, PolSAR pro, Doris InSAR, SNAP-ESA
 
 ## Hydrological and climate Models  
-  - Weather Research and Forecast Model (WRF) 
-  - Noah-Multiparameterization Land Surface Model (NOAH-MP)
-  - variable infiltration capacity model (VIC)
+  - Weather Research and Forecast (WRF) Model 
+  - Noah-Multiparameterization Land Surface (NOAH-MP) Model 
+  - Variable Infiltration Capacity (VIC) model 
