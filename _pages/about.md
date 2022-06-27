@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Completed Ph.d. in Earth Sciences, IIT Gandhinagar and currently working as a research associate in the IIT Gandhinagar. 
+Completed Ph.D. in Earth Sciences, IIT Gandhinagar and currently working as a research associate in the IIT Gandhinagar. 
 
 I am really excited to work in developing novel methodologies to elucidate the role of extreme events on climate change. Climate modeling is one part which I employed to attribute changes in the concurrent extreme events, land-atmospheric coupling of atmospheric aridity, heat stress, and sustainable water management under different warming scenarios. Apart from the significant research interest, I am highly motivated to implement <b>Machine and Deep Learning techniques</b> to improve the understanding of various short and long-term disasters such as drought, flash drought, and flood for sustainable environmental policies.
 
